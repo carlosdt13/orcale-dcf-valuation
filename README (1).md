@@ -142,4 +142,5 @@ Every hardcoded input has a cell comment explaining its source or reasoning.
 
 ## About
 
-<Carlos D'Trinidad · Finance student, University of Central Florida · LinkedIn link -->
+<Carlos D'Trinidad · Finance student, University of Central Florida · https://www.linkedin.com/in/carlos-dtrinidad<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/8dead708-4128-4fad-8917-031b1bb6496a" />
+ -->
